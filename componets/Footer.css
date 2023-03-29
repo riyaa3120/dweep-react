@@ -1,0 +1,58 @@
+.footerC {
+    display: flex;
+    width: 1440px;
+    height: 298px;
+    left: 0px;
+    top: 592px;
+
+    /* The Black */
+
+    background: #282828;
+}
+.lower-left {
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 191px;
+    top: 654px;
+}
+
+.lower-left li {
+   list-style: none;
+   font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+
+color: #FFFFFF;
+
+}
+
+
+.lower-right {
+    position: absolute;
+    width: 148px;
+    height: 36px;
+    left: 1090px;
+    top: 654px;
+
+
+
+}
+
+.lower-right li {
+    list-style: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+    text-align: right;
+
+    color: #FFFFFF;
+}
